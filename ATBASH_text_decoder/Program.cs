@@ -15,7 +15,7 @@ string CalculatorWarning(int pointNumber)
     {
         alertstring += "DANGER!!!";
     }
-    else if (pointNumber >= 11 && pointNumber <= 15)
+    else if (pointNumber >= 11)
     {
         alertstring += "ULTRA ALERT!!!";
     }
