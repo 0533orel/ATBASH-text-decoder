@@ -1,10 +1,28 @@
 ﻿using System;
+using System.Net.Sockets;
 namespace ATBASH_text_decoder
 {
     class Program
     {
         static void Main()
         {
+            int numOfWorning = 0;
+
+            List<string> dangerWords = new List<string> { "bomb", "nukhba", "fighter", "rocket", "secret" };
+
+            Console.WriteLine("enter please the text:");
+
+            string text = "Lfi ulixvh ziv kivkzirmt uli z nzqli zggzxp lm gsv Arlmrhg vmvnb. Gsv ilxpvg fmrgh ziv ivzwb zmw dzrgrmt uli gsv hrtmzo.Ylnyh szev yvvm kozxvw mvzi pvb olxzgrlmh. Mfpsyz urtsgvih ziv hgzmwrmt yb uli tilfmw rmurogizgrlm. Gsv zggzxp droo yv hfwwvm zmw hgilmt -- gsvb dlm’g hvv rg xlnrmt. Dv nfhg hgzb srwwvm zmw pvvk gsv kozm hvxivg fmgro gsv ozhg nlnvmg. Erxglib rh mvzi. Hgzb ivzwb.";
+
+            string decipheredText = AtbashDecoder(text);
+
+            numOfWorning = dangerousWordCount(decipheredText, dangerWords);
+
+            string levelOfDanger = CalculatorWarning(numOfWorning);
+
+            Console.WriteLine($"the decipherd text is       ''{decipheredText}''");
+            Console.WriteLine($"the number of words we have are {numOfWorning} ther foer the level of danger is {levelOfDanger}");
+
 
         }
 
@@ -13,13 +31,17 @@ namespace ATBASH_text_decoder
         {
             int CountDangerousWord = 0;
 
-            string[] words = text.Split(new char[] { ' ', ',', '.', '?', '!', '_', '-', ':', ':', '{', '}', '[', ']', '(', ')' }, StringSplitOptions.RemoveEmptyEntries);
+            string[] words = text.Split(new char[] { ' ', ',', '.', '?', '!', '_', '-', ':', ':', '{', '}', '[', ']', '(', ')','\\','/','\"' }, StringSplitOptions.RemoveEmptyEntries);
 
-            foreach (var word in words)
+            foreach (var dangerousWord in warningWordsList)
             {
-                if (warningWordsList.Contains(word))
+                foreach (var word in words)
                 {
-                    CountDangerousWord++;
+                    if (word.Contains(dangerousWord))
+                    {
+                        CountDangerousWord++;
+                    }
+
                 }
             }
 
@@ -56,7 +78,7 @@ namespace ATBASH_text_decoder
 
 
                 
-        string CalculatorWarning(int pointNumber)
+        static string CalculatorWarning(int pointNumber)
         {
             string alertstring = "";
             if (pointNumber == 0)
