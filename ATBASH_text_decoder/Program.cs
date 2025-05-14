@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Globalization;
 namespace ATBASH_text_decoder
 {
     class Program
