@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Globalization;
 namespace ATBASH_text_decoder
 {
     class Program
@@ -55,6 +53,36 @@ namespace ATBASH_text_decoder
             }
             return newText;
         }
+
+
+                
+        string CalculatorWarning(int pointNumber)
+        {
+            string alertstring = "";
+            if (pointNumber == 0)
+            {
+                alertstring += "NO WAENING!";
+            }
+            else if (pointNumber >= 1 && pointNumber <= 5)
+            {
+                alertstring += "WARNING!!!";
+            }
+
+            else if (pointNumber >= 6 && pointNumber <= 10)
+            {
+                alertstring += "DANGER!!!";
+            }
+            else if (pointNumber >= 11)
+            {
+                alertstring += "ULTRA ALERT!!!";
+            }
+            else
+            {
+                alertstring += "ERROR!!!";
+            }
+            return alertstring;
+        }
+
 
     }
 }
