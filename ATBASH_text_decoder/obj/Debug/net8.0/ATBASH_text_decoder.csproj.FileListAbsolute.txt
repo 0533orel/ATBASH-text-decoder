@@ -1,0 +1,15 @@
+C:\Users\User\לימודים\תכנות\Analiza\C# Projects\ATBASH-text-decoder.git\ATBASH_text_decoder\bin\Debug\net8.0\ATBASH_text_decoder.exe
+C:\Users\User\לימודים\תכנות\Analiza\C# Projects\ATBASH-text-decoder.git\ATBASH_text_decoder\bin\Debug\net8.0\ATBASH_text_decoder.deps.json
+C:\Users\User\לימודים\תכנות\Analiza\C# Projects\ATBASH-text-decoder.git\ATBASH_text_decoder\bin\Debug\net8.0\ATBASH_text_decoder.runtimeconfig.json
+C:\Users\User\לימודים\תכנות\Analiza\C# Projects\ATBASH-text-decoder.git\ATBASH_text_decoder\bin\Debug\net8.0\ATBASH_text_decoder.dll
+C:\Users\User\לימודים\תכנות\Analiza\C# Projects\ATBASH-text-decoder.git\ATBASH_text_decoder\bin\Debug\net8.0\ATBASH_text_decoder.pdb
+C:\Users\User\לימודים\תכנות\Analiza\C# Projects\ATBASH-text-decoder.git\ATBASH_text_decoder\obj\Debug\net8.0\ATBASH_text_decoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\לימודים\תכנות\Analiza\C# Projects\ATBASH-text-decoder.git\ATBASH_text_decoder\obj\Debug\net8.0\ATBASH_text_decoder.AssemblyInfoInputs.cache
+C:\Users\User\לימודים\תכנות\Analiza\C# Projects\ATBASH-text-decoder.git\ATBASH_text_decoder\obj\Debug\net8.0\ATBASH_text_decoder.AssemblyInfo.cs
+C:\Users\User\לימודים\תכנות\Analiza\C# Projects\ATBASH-text-decoder.git\ATBASH_text_decoder\obj\Debug\net8.0\ATBASH_text_decoder.csproj.CoreCompileInputs.cache
+C:\Users\User\לימודים\תכנות\Analiza\C# Projects\ATBASH-text-decoder.git\ATBASH_text_decoder\obj\Debug\net8.0\ATBASH_text_decoder.sourcelink.json
+C:\Users\User\לימודים\תכנות\Analiza\C# Projects\ATBASH-text-decoder.git\ATBASH_text_decoder\obj\Debug\net8.0\ATBASH_text_decoder.dll
+C:\Users\User\לימודים\תכנות\Analiza\C# Projects\ATBASH-text-decoder.git\ATBASH_text_decoder\obj\Debug\net8.0\refint\ATBASH_text_decoder.dll
+C:\Users\User\לימודים\תכנות\Analiza\C# Projects\ATBASH-text-decoder.git\ATBASH_text_decoder\obj\Debug\net8.0\ATBASH_text_decoder.pdb
+C:\Users\User\לימודים\תכנות\Analiza\C# Projects\ATBASH-text-decoder.git\ATBASH_text_decoder\obj\Debug\net8.0\ATBASH_text_decoder.genruntimeconfig.cache
+C:\Users\User\לימודים\תכנות\Analiza\C# Projects\ATBASH-text-decoder.git\ATBASH_text_decoder\obj\Debug\net8.0\ref\ATBASH_text_decoder.dll
