@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ATBASH_text_decoder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce3f1190a66eec80fb1c5b4afbaa7a3258ae7cca")]
 [assembly: System.Reflection.AssemblyProductAttribute("ATBASH_text_decoder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ATBASH_text_decoder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
