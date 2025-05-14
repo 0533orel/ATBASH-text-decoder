@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\משתמש\\.nuget\\packages\\": {},
+    "C:\\Users\\gmth0\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\משתמש\\Documents\\Visual Studio 2022\\ATBASH_text_decoder\\ATBASH_text_decoder\\ATBASH_text_decoder.csproj",
+      "projectUniqueName": "C:\\Users\\gmth0\\Source\\Repos\\ATBASH-text-decoder\\ATBASH_text_decoder\\ATBASH_text_decoder.csproj",
       "projectName": "ATBASH_text_decoder",
-      "projectPath": "C:\\Users\\משתמש\\Documents\\Visual Studio 2022\\ATBASH_text_decoder\\ATBASH_text_decoder\\ATBASH_text_decoder.csproj",
-      "packagesPath": "C:\\Users\\משתמש\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\משתמש\\Documents\\Visual Studio 2022\\ATBASH_text_decoder\\ATBASH_text_decoder\\obj\\",
+      "projectPath": "C:\\Users\\gmth0\\Source\\Repos\\ATBASH-text-decoder\\ATBASH_text_decoder\\ATBASH_text_decoder.csproj",
+      "packagesPath": "C:\\Users\\gmth0\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gmth0\\Source\\Repos\\ATBASH-text-decoder\\ATBASH_text_decoder\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\משתמש\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gmth0\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

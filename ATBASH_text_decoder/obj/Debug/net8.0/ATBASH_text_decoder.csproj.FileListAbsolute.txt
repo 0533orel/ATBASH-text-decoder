@@ -1,0 +1,15 @@
+C:\Users\gmth0\Source\Repos\ATBASH-text-decoder\ATBASH_text_decoder\bin\Debug\net8.0\ATBASH_text_decoder.exe
+C:\Users\gmth0\Source\Repos\ATBASH-text-decoder\ATBASH_text_decoder\bin\Debug\net8.0\ATBASH_text_decoder.deps.json
+C:\Users\gmth0\Source\Repos\ATBASH-text-decoder\ATBASH_text_decoder\bin\Debug\net8.0\ATBASH_text_decoder.runtimeconfig.json
+C:\Users\gmth0\Source\Repos\ATBASH-text-decoder\ATBASH_text_decoder\bin\Debug\net8.0\ATBASH_text_decoder.dll
+C:\Users\gmth0\Source\Repos\ATBASH-text-decoder\ATBASH_text_decoder\bin\Debug\net8.0\ATBASH_text_decoder.pdb
+C:\Users\gmth0\Source\Repos\ATBASH-text-decoder\ATBASH_text_decoder\obj\Debug\net8.0\ATBASH_text_decoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmth0\Source\Repos\ATBASH-text-decoder\ATBASH_text_decoder\obj\Debug\net8.0\ATBASH_text_decoder.AssemblyInfoInputs.cache
+C:\Users\gmth0\Source\Repos\ATBASH-text-decoder\ATBASH_text_decoder\obj\Debug\net8.0\ATBASH_text_decoder.AssemblyInfo.cs
+C:\Users\gmth0\Source\Repos\ATBASH-text-decoder\ATBASH_text_decoder\obj\Debug\net8.0\ATBASH_text_decoder.csproj.CoreCompileInputs.cache
+C:\Users\gmth0\Source\Repos\ATBASH-text-decoder\ATBASH_text_decoder\obj\Debug\net8.0\ATBASH_text_decoder.sourcelink.json
+C:\Users\gmth0\Source\Repos\ATBASH-text-decoder\ATBASH_text_decoder\obj\Debug\net8.0\ATBASH_text_decoder.dll
+C:\Users\gmth0\Source\Repos\ATBASH-text-decoder\ATBASH_text_decoder\obj\Debug\net8.0\refint\ATBASH_text_decoder.dll
+C:\Users\gmth0\Source\Repos\ATBASH-text-decoder\ATBASH_text_decoder\obj\Debug\net8.0\ATBASH_text_decoder.pdb
+C:\Users\gmth0\Source\Repos\ATBASH-text-decoder\ATBASH_text_decoder\obj\Debug\net8.0\ATBASH_text_decoder.genruntimeconfig.cache
+C:\Users\gmth0\Source\Repos\ATBASH-text-decoder\ATBASH_text_decoder\obj\Debug\net8.0\ref\ATBASH_text_decoder.dll
